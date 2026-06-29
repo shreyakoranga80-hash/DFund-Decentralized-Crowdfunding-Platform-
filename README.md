@@ -28,6 +28,7 @@ DFund is a decentralized crowdfunding platform (dApp) built to enable transparen
 ├── hardhat.config.js     # Ethereum development environment configurations
 ├── tailwind.config.js    # Styling configurations
 └── package.json          # Project dependencies and operational scripts
+```
 
 ### Prerequisites
 Ensure you have the following tools installed:
